@@ -108,30 +108,36 @@ export const certifications = [
     title: "IBM Granite Model for Software Development",
     issuer: "IBM SkillsBuild",
     date: "Mar 2026",
+    url: "https://drive.google.com/file/d/110PSndYQdgYSGyCL2tkYARGuzx7pWETN/view?usp=drivesdk-ibm",
   },
   {
     title: "Data Analyst Certification",
     issuer: "United Latino Students Association",
     date: "Jan 2026",
+    url: "https://drive.google.com/file/d/1i1IfSGiolLnfvmkhqtLV75DO0ytmNJv_/view?usp=drivesdk-data analyst",
   },
   {
     title: "Elite Hack 1.0 Hackathon Certificate",
     issuer: "Elite Coders",
     date: "Mar 2026",
+    url: "https://drive.google.com/file/d/1OBE3rJEpfTMFw8XczMVD4sW8jjy2enVp/view?usp=drivesdk-elite codes hackathon",
   },
   {
     title: "Google Analytics Certification",
     issuer: "Google Analytics",
     date: "Sep 2025 – Sep 2026",
+    url: "https://drive.google.com/file/d/1Ko3IUiMDxBQ-iHlWsm-KFO7yoBVPGLQY/view?usp=drivesdk-google analytics",
   },
   {
     title: "Artificial Intelligence Certification",
     issuer: "Samsung Innovation Campus",
     date: "Jul – Oct 2025",
+    url: "https://drive.google.com/file/d/10Y_9XFrNLssqOjSAZ92qIHY0lw2WyJdc/view?usp=drivesdk-samsung",
   },
   {
     title: "Data Visualization Job Simulation",
     issuer: "Tata Group via Forage",
     date: "Apr 2025",
+    url: "https://drive.google.com/file/d/1seJuAtAtMzOp0X9INwkDwD7TAhxFvcZN/view?usp=drivesdk-tata forge",
   },
 ];
