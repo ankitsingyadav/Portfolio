@@ -115,7 +115,7 @@ export const education = [
     institution: "Deen Dayal Upadhyay Gorakhpur University",
     location: "Gorakhpur",
     period: "2024 – 2028",
-    grade: "SGPA: 7.94 (Current)",
+    grade: "SGPA: 8.23 (Current)",
   },
   {
     degree: "Intermediate (Class XII) – CBSE",
