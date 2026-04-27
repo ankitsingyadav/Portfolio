@@ -12,6 +12,7 @@ export const personal = {
   location: "Gorakhpur, Uttar Pradesh, India",
   linkedin: "https://linkedin.com/in/ankit-singh-yadav",
   github: "https://github.com/ankitsingyadav",
+  instagram: "https://www.instagram.com/_mr.ankit.001_/",
   resumeUrl: "/resume.pdf", // Place your resume PDF in /public/resume.pdf
 };
 

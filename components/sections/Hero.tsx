@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Github, Linkedin, Mail, ArrowDown } from "lucide-react";
+import { Github, Linkedin, Mail, ArrowDown, Instagram } from "lucide-react";
 import { personal } from "@/lib/data";
 
 export default function Hero() {
@@ -120,6 +120,7 @@ export default function Hero() {
               { icon: Github, href: personal.github, label: "GitHub" },
               { icon: Linkedin, href: personal.linkedin, label: "LinkedIn" },
               { icon: Mail, href: `mailto:${personal.email}`, label: "Email" },
+              { icon: Instagram, href: personal.instagram, label: "Instagram" },
             ].map(({ icon: Icon, href, label }) => (
               <a
                 key={label}
