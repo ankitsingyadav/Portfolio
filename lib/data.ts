@@ -83,7 +83,7 @@ export const experience = [
   {
     id: 1,
     role: "Contributor",
-    company: "Elite Coder Winter of Code (ECWoC)",
+    company: "Elite Coder Winter of Code (ECWoC)-Elite Coders",
     period: "Dec 2025 – Mar 2026",
     description:
       "Contributed to 2–3 real-world projects, delivering feature enhancements, bug fixes, and code optimizations. Strengthened problem-solving skills through team-based development workflows and collaborative code reviews.",
@@ -101,7 +101,7 @@ export const experience = [
   {
   id: 3,
   role: "Open Source Contributor",
-  company: "Open Source Connect Global (OSGC)",
+  company: "Open Source Connect Global (OSGC)-Open Source Connect ",
   period: "Feb 2026",
   description:
     "Actively contributed to open-source projects during OSGC by delivering feature enhancements, resolving bugs, and participating in collaborative code reviews. Worked with global developers while following industry-standard Git/GitHub workflows.",
