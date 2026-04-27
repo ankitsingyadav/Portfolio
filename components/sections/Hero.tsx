@@ -98,6 +98,8 @@ export default function Hero() {
           <a
             href={personal.resumeUrl}
             download
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-zinc-100 dark:bg-zinc-800 text-zinc-700 dark:text-zinc-300 font-display font-semibold text-sm hover:bg-zinc-200 dark:hover:bg-zinc-700 transition-all"
           >
             Resume ↓

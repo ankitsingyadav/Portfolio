@@ -74,6 +74,8 @@ export default function Navbar() {
           <a
             href={personal.resumeUrl}
             download
+            target="_blank"
+            rel="noopener noreferrer"
             className="hidden md:inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent text-zinc-900 font-display font-semibold text-sm hover:bg-accent-dark transition-colors"
           >
             Resume ↓
@@ -106,6 +108,8 @@ export default function Navbar() {
           <a
             href={personal.resumeUrl}
             download
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent text-zinc-900 font-display font-semibold text-sm w-fit"
           >
             Resume ↓
