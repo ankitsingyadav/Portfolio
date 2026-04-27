@@ -73,7 +73,7 @@ export const projects = [
   github: "https://github.com/ankitsingyadav/ResistAI",
   live: "https://resistai.vercel.app/",
   featured: true,
-  icon: "🧠",
+  icon: "🧬",
   impact: "AI for Healthcare"
 },
   
