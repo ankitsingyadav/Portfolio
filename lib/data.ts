@@ -31,8 +31,8 @@ export const projects = [
     description:
       "A non-profit platform connecting volunteers with government school students to provide extracurricular education and skill development. Enables students to discover hidden talents through structured volunteer-led programs.",
     tags: ["React", "Node.js", "Firebase", "TailwindCSS"],
-    github: "https://github.com/ankitsingyadav",
-    live: "https://edugrow.vercel.app",
+    github: "https://github.com/ankitsingyadav/EduGrow.git",
+    live: "https://edu-grow-zeta.vercel.app/",
     featured: true,
     icon: "🎓",
     impact: "Social Impact",
@@ -44,8 +44,8 @@ export const projects = [
     description:
       "An AI system that analyzes product images and descriptions to recommend the best deals across multiple marketplaces. Implements intelligent product matching to surface the most relevant options in real time.",
     tags: ["Python", "FastAPI", "AI/ML", "REST APIs"],
-    github: "https://github.com/ankitsingyadav",
-    live: null,
+    github: "https://github.com/ankitsingyadav/DealScout.git",
+    live: "https://inquisitive-quokka-bc4bab.netlify.app/" ,
     featured: true,
     icon: "🤖",
     impact: "AI Powered",
@@ -57,8 +57,8 @@ export const projects = [
     description:
       "A web app enabling real-time barcode scanning via device camera to instantly fetch product details. Reduced product lookup time by ~70% with a dynamic cart and mobile-friendly UI for contactless shopping.",
     tags: ["JavaScript", "React", "CSS3", "Barcode API"],
-    github: "https://github.com/ankitsingyadav",
-    live: "https://smartcart.vercel.app",
+    github: null, // No GitHub link for this project
+    live: "https://smart-cart-theta.vercel.app/",
     featured: true,
     icon: "🛒",
     impact: "70% Faster",
