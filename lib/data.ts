@@ -98,6 +98,15 @@ export const experience = [
       "Successfully merged 6/6 pull requests across open-source repositories, achieving a 100% acceptance rate. Collaborated with global developers, improving code quality and adhering to Git/GitHub best practices.",
     type: "open-source",
   },
+  {
+  id: 3,
+  role: "Open Source Contributor",
+  company: "Open Source Connect Global (OSGC)",
+  period: "Feb 2026",
+  description:
+    "Actively contributed to open-source projects during OSGC by delivering feature enhancements, resolving bugs, and participating in collaborative code reviews. Worked with global developers while following industry-standard Git/GitHub workflows.",
+  type: "open-source",
+},
 ];
 
 export const education = [
