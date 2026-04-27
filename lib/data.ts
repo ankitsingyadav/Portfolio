@@ -63,6 +63,20 @@ export const projects = [
     icon: "🛒",
     impact: "70% Faster",
   },
+  {
+  id: 4,
+  title: "ResistAI",
+  subtitle: "Real-Time Antibiotic Resistance Prediction (Healthcare AI)",
+  description:
+    "Developed a machine learning-based clinical decision support system to predict antibiotic resistance in under 2 seconds. Integrated species-aware modeling, probability-based risk scoring, and explainable AI (XAI) to provide transparent and actionable insights. The system ranks antibiotics by effectiveness, helping reduce treatment delays caused by traditional lab testing (48–72 hours).",
+  tags: ["Python", "Machine Learning", "FastAPI", "Explainable AI (XAI)", "Healthcare", "Data Analysis"],
+  github: "https://github.com/ankitsingyadav/ResistAI",
+  live: "https://resistai.vercel.app/",
+  featured: true,
+  icon: "🧠",
+  impact: "AI for Healthcare"
+},
+  
 ];
 
 export const experience = [
