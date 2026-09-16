@@ -14,7 +14,7 @@ export default function Experience() {
         <SectionHeader
           label="04. Experience"
           title="Where I've contributed"
-          subtitle="Open-source work and collaborative development experience."
+          subtitle="Internship, open-source work, and collaborative development experience."
         />
 
         <div className="relative max-w-2xl">
