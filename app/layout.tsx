@@ -4,7 +4,6 @@ import { ThemeProvider } from "@/components/ThemeProvider";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import AskAnkitAI from "@/components/AskAnkitAI";
-import PortfolioAssistant from "@/components/PortfolioAssistant";
 import { personal } from "@/lib/data";
 
 export const metadata: Metadata = {
@@ -53,7 +52,6 @@ export default function RootLayout({
           <main>{children}</main>
           <Footer />
           <AskAnkitAI />
-          <PortfolioAssistant />
         </ThemeProvider>
       </body>
     </html>
