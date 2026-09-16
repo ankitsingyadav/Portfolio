@@ -76,8 +76,20 @@ export const projects = [
   featured: true,
   icon: "⚕️",
   impact: "AI for Healthcare"
-},
-  
+  },
+  {
+id: 5,
+title: "Personal-Carbon-Footprint-Awareness-Platform",
+subtitle: "Personal Carbon Footprint Tracking System",
+description:
+  "A privacy-first platform that helps individuals understand, track, and reduce their personal carbon footprint. Provides real-time emissions calculation, category-wise breakdowns, personalized insights, actionable reduction goals, and a context-aware AI advisor powered by a rule-based reasoning engine.",
+tags: ["React", "JavaScript", "Chart.js", "CSS3", "AI"],
+github: "https://github.com/ankitsingyadav/Personal-Carbon-Footprint-Awareness-Platform",
+live: "https://personal-carbon-footprint-awareness.vercel.app/",
+featured: true,
+icon: "🌱",
+impact: "Carbon Awareness"
+  },
 ];
 
 export const experience = [
@@ -92,15 +104,24 @@ export const experience = [
   },
   {
     id: 1,
+    role: "AI Web Developer",
+    company: "InAmigos Foundation(IAF) - ISO 9001:2015 Certified NGO | MCA | NITI Aayog Registered",
+    period: "Jul – Aug 2026",
+    description:
+      "Developed AI-integrated web features for real-world NGO applications. Awarded a Certificate of Appreciation and Letter of Recommendation (LOR) by Founder and CEO Mr. Govind Shukla for exceptional technical contribution.",
+    type: "internship",
+  },
+  {
+    id: 2,
     role: "Contributor",
-    company: "Elite Coder Winter of Code (ECWoC)-Elite Coders",
+    company: "Elite Coder Winter of Code (ECWoC) — Elite Coders",
     period: "Dec 2025 – Mar 2026",
     description:
       "Contributed to 2–3 real-world projects, delivering feature enhancements, bug fixes, and code optimizations. Strengthened problem-solving skills through team-based development workflows and collaborative code reviews.",
     type: "open-source",
   },
   {
-    id: 2,
+    id: 3,
     role: "Open Source Contributor",
     company: "Hacktoberfest — DigitalOcean",
     period: "October 2025",
@@ -109,14 +130,14 @@ export const experience = [
     type: "open-source",
   },
   {
-  id: 3,
-  role: "Open Source Contributor",
-  company: "Open Source Connect Global (OSGC)-Open Source Connect ",
-  period: "Feb 2026",
-  description:
-    "Actively contributed to open-source projects during OSGC by delivering feature enhancements, resolving bugs, and participating in collaborative code reviews. Worked with global developers while following industry-standard Git/GitHub workflows.",
-  type: "open-source",
-},
+    id: 4,
+    role: "Open Source Contributor",
+    company: "Open Source Connect Global (OSGC) — Open Source Connect",
+    period: "Feb 2026",
+    description:
+      "Actively contributed to open-source projects during OSGC by delivering feature enhancements, resolving bugs, and participating in collaborative code reviews. Worked with global developers while following industry-standard Git/GitHub workflows.",
+    type: "open-source",
+  },
 ];
 
 export const education = [
