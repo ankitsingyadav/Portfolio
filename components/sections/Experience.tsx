@@ -30,16 +30,16 @@ export default function Experience() {
 
                   {/* Card */}
                   <div className="p-6 rounded-2xl border border-zinc-200 dark:border-zinc-800 bg-white/60 dark:bg-zinc-900/60 hover:border-accent/40 transition-all duration-300">
-                    <div className="flex flex-wrap items-start justify-between gap-3 mb-3">
-                      <div>
+                    <div className="mb-3 flex items-start justify-between gap-3">
+                      <div className="min-w-0 flex-1">
                         <h3 className="font-display font-bold text-lg text-zinc-900 dark:text-zinc-100">
                           {exp.role}
                         </h3>
-                        <p className="font-body text-accent text-sm font-medium mt-0.5">
+                        <p className="font-body text-accent text-sm font-medium mt-0.5 break-words">
                           {exp.company}
                         </p>
                       </div>
-                      <span className="font-mono text-xs text-zinc-500 dark:text-zinc-500 bg-zinc-100 dark:bg-zinc-800 px-3 py-1 rounded-full whitespace-nowrap">
+                      <span className="shrink-0 self-start font-mono text-xs text-zinc-500 dark:text-zinc-500 bg-zinc-100 dark:bg-zinc-800 px-3 py-1 rounded-full whitespace-nowrap">
                         {exp.period}
                       </span>
                     </div>

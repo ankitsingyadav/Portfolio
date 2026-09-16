@@ -94,7 +94,7 @@ impact: "Carbon Awareness"
 
 export const experience = [
   {
-    id: 4,
+    id: 1,
     role: "AI Web Development Intern",
     company: "IAF-ISO 9001:2015 Certified NGO | Ministry of Corporate Affairs | NITI Aayog Registered",
     period: "May – Jun 2026",
@@ -102,15 +102,7 @@ export const experience = [
       "Developed AI-integrated web features for real-world NGO applications at IAF. Awarded a Certificate of Appreciation and Letter of Recommendation by Founder and CEO Mr. Govind Shukla for exceptional technical contribution.",
     type: "internship",
   },
-  {
-    id: 1,
-    role: "AI Web Developer",
-    company: "InAmigos Foundation(IAF) - ISO 9001:2015 Certified NGO | MCA | NITI Aayog Registered",
-    period: "Jul – Aug 2026",
-    description:
-      "Developed AI-integrated web features for real-world NGO applications. Awarded a Certificate of Appreciation and Letter of Recommendation (LOR) by Founder and CEO Mr. Govind Shukla for exceptional technical contribution.",
-    type: "internship",
-  },
+
   {
     id: 2,
     role: "Contributor",
